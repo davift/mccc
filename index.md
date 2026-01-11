@@ -40,13 +40,9 @@ layout: default
 
 ![Leafs](leafs-mini.jpg)
 
-### Raptors
+### Raptors & Leafs
 
-![Raptors](raptors-mini.jpg)
-
-### Toronto
-
-![Toronto](toronto-mini.jpg)
+![Raptors](raptors-mini.jpg) ![Toronto](toronto-mini.jpg)
 
 ### Village
 
