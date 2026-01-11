@@ -4,7 +4,7 @@ layout: default
 
 # Mayna Crisley
 
-![Mayna](mayna-mini.jpg)
+![Mayna](mayna-mini.png)
 
 # Welcome to my gallery
 
