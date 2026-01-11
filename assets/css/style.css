@@ -6,3 +6,7 @@
 .site-footer-credits {
   display: none !important;
 }
+
+footer {
+  display: none;
+}
