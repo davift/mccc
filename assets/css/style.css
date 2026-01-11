@@ -627,7 +627,7 @@ kbd {
 
 @media screen and (max-width: 992px) {
     img {
-        max-width:400px
+        max-width:100%
     }
 }
 
