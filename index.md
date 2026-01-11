@@ -52,4 +52,19 @@ layout: default
 
 ![Village](village-mini.jpg)
 
+### Aurora
+
+![Aurora](aurora-mini.jpg)
+
+### Lafer
+
+![Lafer](lafer-mini.jpg)
+
+### Tucan
+
+![Tucan](tucan-mini.jpg)
+
+### The Last Supper
+
+![The Last Supper](the-lastr-supper-mini.jpg)
 
