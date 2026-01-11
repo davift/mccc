@@ -3,19 +3,3 @@
 
 @import "{{ site.theme }}";
 
-img {
-  width: 300px;
-  max-width: none;
-}
-
-p img {
-  width: 300px;
-  max-width: none;
-}
-
-@media screen and (max-width: 992px) {
-  p img.small {
-    width: 300px;
-    max-width: none;
-  }
-}
