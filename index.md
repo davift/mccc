@@ -66,5 +66,5 @@ layout: default
 
 ### The Last Supper
 
-![The Last Supper](the-lastr-supper-mini.jpg)
+![The Last Supper](the-last-supper-mini.jpg)
 
