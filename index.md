@@ -6,13 +6,13 @@ layout: default
 
 This my gallery.
 
+![Myna mini](mayna-mini.jpg)
+
 ## Features
 
-Picture 1 mini
-
-Picture 2 mini
-
-Picture 3 mini
-
-Picture 4 mini
+{% for f in site.static_files %}
+    {% if f.path contains '/mccc/' and f.extname == '.jpg' %}
+![{{ f.name }}]({{ f.path | relative_url }})
+    {% endif %}
+{% endfor %}
 
