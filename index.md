@@ -47,6 +47,7 @@ layout: default
 ### Toronto
 
 ![Toronto](toronto-mini.jpg)
+![Toronto](toronto2-mini.jpg)
 
 ### Village
 
@@ -67,4 +68,8 @@ layout: default
 ### The Last Supper
 
 ![The Last Supper](the-last-supper-mini.jpg)
+
+### Dog
+
+![Dog](dog-mini.jpg)
 
