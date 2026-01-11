@@ -4,15 +4,54 @@ layout: default
 
 # Welcome
 
-This my gallery.
+## This my gallery.
 
 ![Myna mini](mayna-mini.jpg)
 
-## Features
+# Pictures
 
-{% for f in site.static_files %}
-    {% if f.path contains '/mccc/' and f.extname == '.jpg' %}
-![{{ f.name }}]({{ f.path | relative_url }})
-    {% endif %}
-{% endfor %}
+## Chevelle
+
+![Chevelle mini](chevelle-mini.jpg)
+
+## Figures
+
+![Figures mini](figures-mini.jpg)
+
+## Fish
+
+![Fish mini](fish-mini.jpg)
+
+## Guitar
+
+![Guitar mini](guitar-mini.jpg)
+
+## Indian
+
+![Indian mini](indian-mini.jpg)
+
+## Kayak
+
+![Kayak mini](kayak-mini.jpg)
+
+# Lake
+
+![Lake mini](lake-mini.jpg)
+
+## Leafs
+
+![Leafs mini](leafs-mini.jpg)
+
+## Raptors
+
+![Raptors mini](raptors-mini.jpg)
+
+## Toronto
+
+![Toronto mini](toronto-mini.jpg)
+
+## Village
+
+![Village mini](village-mini.jpg)
+
 
