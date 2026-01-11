@@ -3,11 +3,14 @@
 
 @import "{{ site.theme }}";
 
-img {
+.inner img.small {
   width: 300px;
   max-width: none;
 }
 
-.inner {
-    max-width: 400px;
+@media screen and (max-width: 992px) {
+  .inner img.small {
+    width: 300px;
+    max-width: none;
+  }
 }
