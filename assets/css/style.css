@@ -3,7 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.custom-image {
-  width: 300px;
-  max-width: 100%;
+.img {
+  max-width: 400px;
 }
