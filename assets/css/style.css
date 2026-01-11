@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.inner img.small {
+p img {
   width: 300px;
   max-width: none;
 }
