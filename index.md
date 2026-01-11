@@ -47,6 +47,7 @@ layout: default
 ### Toronto
 
 ![Toronto](toronto-mini.jpg)
+
 ![Toronto](toronto2-mini.jpg)
 
 ### Village
