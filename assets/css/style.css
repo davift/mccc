@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 .custom-image {
   width: 300px;
   max-width: 100%;
