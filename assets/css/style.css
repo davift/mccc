@@ -1,0 +1,12 @@
+.img-small {
+  width: 200px;
+}
+
+.img-medium {
+  max-width: 50%;
+}
+
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+}
