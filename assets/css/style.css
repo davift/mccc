@@ -1,12 +1,4 @@
-.img-small {
-  width: 200px;
-}
-
-.img-medium {
-  max-width: 50%;
-}
-
-.img-responsive {
+.custom-image {
+  width: 300px;
   max-width: 100%;
-  height: auto;
 }
