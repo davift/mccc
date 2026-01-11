@@ -8,8 +8,6 @@ img {
   max-width: none;
 }
 
-img.small {
-  width: 300px;
-  max-width: none;
+.inner {
+    max-width: 400px;
 }
-
