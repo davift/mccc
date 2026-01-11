@@ -2,55 +2,53 @@
 layout: default
 ---
 
-# Welcome
-
-## This my gallery.
+# Welcome to my gallery
 
 ![Myna mini](mayna-mini.jpg)
 
 # Pictures
 
-## Chevelle
+### Chevelle
 
 ![Chevelle mini](chevelle-mini.jpg)
 
-## Figures
+### Figures
 
 ![Figures mini](figures-mini.jpg)
 
-## Fish
+### Fish
 
 ![Fish mini](fish-mini.jpg)
 
-## Guitar
+### Guitar
 
 ![Guitar mini](guitar-mini.jpg)
 
-## Indian
+### Indian
 
 ![Indian mini](indian-mini.jpg)
 
-## Kayak
+### Kayak
 
 ![Kayak mini](kayak-mini.jpg)
 
-# Lake
+### Lake
 
 ![Lake mini](lake-mini.jpg)
 
-## Leafs
+### Leafs
 
 ![Leafs mini](leafs-mini.jpg)
 
-## Raptors
+### Raptors
 
 ![Raptors mini](raptors-mini.jpg)
 
-## Toronto
+### Toronto
 
 ![Toronto mini](toronto-mini.jpg)
 
-## Village
+### Village
 
 ![Village mini](village-mini.jpg)
 
