@@ -20,10 +20,6 @@ layout: default
 
 ![Fish](fish-mini.jpg)
 
-### Guitar
-
-![Guitar](guitar-mini.jpg)
-
 ### Indian
 
 ![Indian](indian-mini.jpg)
