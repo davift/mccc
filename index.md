@@ -1,72 +1,73 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mayna Crisley – Gallery</title>
 
-# Mayna Crisley
+  <script src="jquery-3.6.0.min.js"></script>
+  <link href="fotorama.css" rel="stylesheet">
+  <script src="fotorama.js"></script>
 
-![Mayna](mayna-mini.png)
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+      background: #111;
+      color: white;
+      font-family: sans-serif;
+    }
 
-# Welcome to my gallery
+    .fotorama {
+      height: 100vh;
+    }
 
-### Chevelle
+    h1 {
+      position: absolute;
+      top: 10px;
+      width: 100%;
+      text-align: center;
+      z-index: 10;
+      margin: 0;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
 
-![Chevelle](chevelle-mini.jpg)
+<h1>Mayna Crisley – Gallery</h1>
 
-### Figures
+<div class="fotorama"
+     data-width="100%"
+     data-height="100%"
+     data-autoplay="3000"
+     data-loop="true"
+     data-transition="crossfade"
+     data-nav="thumbs"
+     data-fit="contain"
+     data-allowfullscreen="true">
 
-![Figures](figures-mini.jpg)
+  <img src="mayna-mini.png" data-caption="Mayna Crisley">
 
-### Fish
+  <img src="chevelle-mini.jpg" data-caption="Chevelle">
+  <img src="figures-mini.jpg" data-caption="Figures">
+  <img src="fish-mini.jpg" data-caption="Fish">
+  <img src="indian-mini.jpg" data-caption="Indian">
+  <img src="kayak-mini.jpg" data-caption="Kayak">
+  <img src="lake-mini.jpg" data-caption="Lake">
+  <img src="leafs-mini.jpg" data-caption="Leafs">
+  <img src="raptors-mini.jpg" data-caption="Raptors">
+  <img src="toronto-mini.jpg" data-caption="Toronto">
+  <img src="toronto2-mini.jpg" data-caption="Toronto">
+  <img src="village-mini.jpg" data-caption="Village">
+  <img src="aurora-mini.jpg" data-caption="Aurora">
+  <img src="lafer-mini.jpg" data-caption="Lafer">
+  <img src="tucan-mini.jpg" data-caption="Tucan">
+  <img src="the-last-supper-mini.jpg" data-caption="The Last Supper">
+  <img src="dog-mini.jpg" data-caption="Dog">
 
-![Fish](fish-mini.jpg)
+</div>
 
-### Indian
-
-![Indian](indian-mini.jpg)
-
-### Kayak
-
-![Kayak](kayak-mini.jpg)
-
-### Lake
-
-![Lake](lake-mini.jpg)
-
-### Leafs
-
-![Leafs](leafs-mini.jpg)
-
-### Raptors
-
-![Raptors](raptors-mini.jpg)
-
-### Toronto
-
-![Toronto](toronto-mini.jpg)
-
-![Toronto](toronto2-mini.jpg)
-
-### Village
-
-![Village](village-mini.jpg)
-
-### Aurora
-
-![Aurora](aurora-mini.jpg)
-
-### Lafer
-
-![Lafer](lafer-mini.jpg)
-
-### Tucan
-
-![Tucan](tucan-mini.jpg)
-
-### The Last Supper
-
-![The Last Supper](the-last-supper-mini.jpg)
-
-### Dog
-
-![Dog](dog-mini.jpg)
-
+</body>
+</html>
